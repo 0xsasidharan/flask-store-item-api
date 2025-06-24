@@ -214,7 +214,3 @@ docker run -p 5000:5000 flask-store-item-api
 ```bash
 docker-compose up --build
 ```
-
----
-
-Let me know if you want this in a downloadable `README.md` file or want to add authentication/database next.
